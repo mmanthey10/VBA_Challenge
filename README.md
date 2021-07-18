@@ -1,4 +1,4 @@
-### Module Challenge Two: Stock Analysis
+# Module Challenge Two: Stock Analysis
 
 ## Project Overview
 The purpose of the project was to refactor VBA code from Module 2 and determine if the refactoring made a meaningful impact of the efficiency of the script.
@@ -18,7 +18,7 @@ The refactored code consistently ran for both years in .8 seconds.
 
 ## Summary
 
-# Advantages of Refactoring (General and Specific Code)
+### Advantages of Refactoring (General and Specific Code)
 In this specific case, the refactoring did not create any advantages, however the overall advantage of refactoring will allow for a couple of advantages. 
 
 First, the refactored code can be more easily read and be more intuitive for the next user of the code.
@@ -28,5 +28,5 @@ Second, in many cases, refactoring code will allow the script to run more effici
 The third advantage, directly relating to this analysis, was gaining a better understanding of how the code works. It gives the opportunity for the writer to fully understand what each line of code is meant to do which helps for potenital improvements and better general understanding.
 
 
-# Disadvantages of Refactoring (General and Specific Code)
+### Disadvantages of Refactoring (General and Specific Code)
 In this example, the disadvantage was time lost spent refactoring the code that did not produce any meaningful improvement in script run time.
